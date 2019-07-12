@@ -6,4 +6,4 @@
  
  # no i jeszcze jedna linijka, bo czemu by nie :)
  
- # branch added
+ # to będzie niezła jatka!
